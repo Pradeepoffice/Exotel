@@ -3,7 +3,7 @@
   "destination": {
     "trunk": "trmum1ba17debad89d12e25f1a4e"
   },
-  "custom_params": "param1=123456&param2=abc",
+  "custom_params": "PH-CustomField=123456",
   "record": true,
   "recording_channels": "dual"
 }
